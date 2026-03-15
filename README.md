@@ -1,9 +1,3 @@
-Below is a **clean, general-purpose README.md** designed for a **Final Year Project repository** that will contain **multiple experiments, scripts, firmware, and analysis tools** related to testing the **Reticulum** network stack.
-
-It is written so you can **copy-paste directly into `README.md`** and it will render well on GitHub.
-
----
-
 # Reticulum Network Stack Performance Evaluation
 
 This repository contains the experimental framework, firmware, scripts, and analysis tools used to evaluate the performance of the **Reticulum Network Stack** over LoRa communication.
